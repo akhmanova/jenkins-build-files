@@ -1,0 +1,8 @@
+FOUND INFO
+~~~~~~~~~~
+SERVICE_BUILD alpha-beta-gamma-1_31
+Started by user Elina Akhmanova Building in workspace /var/jenkins_home/workspace/alpha/beta/gamma [gamma] $ /bin/sh -xe /tmp/jenkins3163190011175068999.sh + echo alpha-beta-gamma-1 alpha-beta-gamma-1 + echo 1.4.16 1.4.16 + echo update update
+~~~~~~~~~~
+SERVICE_BUILD alpha-beta-gamma-1_32
+
+~~~~~~~~~~
